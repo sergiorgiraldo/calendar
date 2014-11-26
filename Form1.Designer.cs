@@ -33,25 +33,29 @@
             // 
             // monthCalendar1
             // 
-            this.monthCalendar1.CalendarDimensions = new System.Drawing.Size(4, 3);
+            this.monthCalendar1.CalendarDimensions = new System.Drawing.Size(2, 2);
             this.monthCalendar1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.monthCalendar1.Font = new System.Drawing.Font("Calibri", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.monthCalendar1.Location = new System.Drawing.Point(0, 0);
+            this.monthCalendar1.Margin = new System.Windows.Forms.Padding(14, 16, 14, 16);
             this.monthCalendar1.MaxSelectionCount = 1;
             this.monthCalendar1.MonthlyBoldedDates = new System.DateTime[] {
         new System.DateTime(2014, 10, 1, 0, 0, 0, 0)};
             this.monthCalendar1.Name = "monthCalendar1";
+            this.monthCalendar1.ShowWeekNumbers = true;
             this.monthCalendar1.TabIndex = 0;
             this.monthCalendar1.DateChanged += new System.Windows.Forms.DateRangeEventHandler(this.monthCalendar1_DateChanged);
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 24F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(927, 464);
+            this.ClientSize = new System.Drawing.Size(762, 408);
             this.Controls.Add(this.monthCalendar1);
+            this.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
             this.KeyPreview = true;
+            this.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Calendar";
