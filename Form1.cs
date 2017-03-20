@@ -17,7 +17,9 @@ namespace Calendar
         private void Form1_Load(object sender, EventArgs e)
         {
             monthCalendar1.Focus();
+            monthCalendar1.SetDate(DateTime.Today);
         }
+
 
         private void Form1_KeyDown(object sender, KeyEventArgs e)
         {
