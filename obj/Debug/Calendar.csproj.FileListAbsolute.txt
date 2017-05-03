@@ -16,3 +16,12 @@ C:\Users\Sérgio\Source\calendar\obj\Debug\Calendar.csprojResolveAssemblyReferen
 C:\Users\Sérgio\Source\calendar\obj\Debug\Calendar.Form1.resources
 C:\Users\Sérgio\Source\calendar\obj\Debug\Calendar.Properties.Resources.resources
 C:\Users\Sérgio\Source\calendar\obj\Debug\Calendar.csproj.GenerateResource.Cache
+C:\Users\sgiraldo\source\calendar\bin\Debug\Calendar.exe.config
+C:\Users\sgiraldo\source\calendar\bin\Debug\Calendar.exe
+C:\Users\sgiraldo\source\calendar\bin\Debug\Calendar.pdb
+C:\Users\sgiraldo\source\calendar\obj\Debug\Calendar.csprojResolveAssemblyReference.cache
+C:\Users\sgiraldo\source\calendar\obj\Debug\Calendar.Form1.resources
+C:\Users\sgiraldo\source\calendar\obj\Debug\Calendar.Properties.Resources.resources
+C:\Users\sgiraldo\source\calendar\obj\Debug\Calendar.csproj.GenerateResource.Cache
+C:\Users\sgiraldo\source\calendar\obj\Debug\Calendar.exe
+C:\Users\sgiraldo\source\calendar\obj\Debug\Calendar.pdb
