@@ -36,7 +36,7 @@
             this.monthCalendar1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
             this.monthCalendar1.CalendarDimensions = new System.Drawing.Size(3, 3);
             this.monthCalendar1.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.monthCalendar1.Location = new System.Drawing.Point(23, 20);
+            this.monthCalendar1.Location = new System.Drawing.Point(6, 3);
             this.monthCalendar1.Margin = new System.Windows.Forms.Padding(14, 16, 14, 16);
             this.monthCalendar1.MaxSelectionCount = 1;
             this.monthCalendar1.MonthlyBoldedDates = new System.DateTime[] {
@@ -54,7 +54,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 19F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(773, 683);
+            this.ClientSize = new System.Drawing.Size(761, 670);
             this.Controls.Add(this.monthCalendar1);
             this.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
